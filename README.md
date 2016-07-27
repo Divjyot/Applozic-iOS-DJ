@@ -1,6 +1,6 @@
 # Applozic-iOS-SDK
 iOS Chat SDK
-
+<img src="http://i.giphy.com/VOpQeHQzgc1tS.gif">
 
 ### Overview         
 
